@@ -1,0 +1,4 @@
+{
+    "name":"Afro Wise",
+    "db":"mongodb://localhost/Afrowise"
+}
